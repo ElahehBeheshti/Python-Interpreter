@@ -1,4 +1,4 @@
-# Academic Prpject
+# Academic Project
 
 # Python Interpreter Project (Advanced Programming Language Class)
 
